@@ -1,8 +1,8 @@
 
 ## DOMAIN:
-- Block chain
+- Block Chain
 ## PROJECT:
-- Fraud detection using block chain
+- Fraud Detection Using Block Chain
 ## TEAM MEMBERS:
 - Deeksha
 - Jasirah
